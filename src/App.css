@@ -1,0 +1,25 @@
+:root {
+    --yellow-200: #fcc30a;
+    --yellow-050: #18d841;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial,"Helvetica Neue",Helvetica,sans-serif;
+    transition: all 300ms ease-in-out;
+}
+
+body {
+    background-color: #e61f1f !important;
+    padding-top: 0 !important;
+}
+
+a {
+    text-decoration: none !important;
+}
+
+button {
+    margin: 5px;
+}
